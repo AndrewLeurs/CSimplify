@@ -34,8 +34,8 @@ Python, FastAPI, JavaScript, Chrome Extensions, Pyodide (WebAssembly), Backboard
 ### 1. Backend
 
 ```bash
-git clone https://github.com/AndrewLeurs/HackW2026.git
-cd HackW2026
+git clone https://github.com/AndrewLeurs/CSimplify.git
+cd CSimplify
 pip install fastapi uvicorn python-dotenv pydantic elevenlabs backboard-sdk
 ```
 
